@@ -4,7 +4,7 @@
   "description": "weixin payment with co",
   "main": "index.js",
   "dependencies": {
-    "MD5": "^2.3.0",
+    "md5": "^2.3.0",
     "xml2js": "^0.4.17",
     "co-request": "^1.0.0"
   },
